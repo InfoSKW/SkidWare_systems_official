@@ -1,2 +1,4 @@
-# SkidWare_systems_official
-sdsds
+# `SkidWare_systems_official`
+``Official servers / sponsors / more``
+
+Everything needed
